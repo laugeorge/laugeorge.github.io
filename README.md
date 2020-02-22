@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://laugeorge.github.io/)
+[![Resume Preview](https://github.com/laugeorge/laugeorge.github.io/blob/master/profile%20snap.JPG)](https://laugeorge.github.io/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
