@@ -6,7 +6,7 @@ My [Resume](https://laugeorge.github.io/) uses a CV theme from [Bootstrap](http:
 
 [![Resume Preview](https://github.com/laugeorge/laugeorge.github.io/blob/master/profile%20snap.JPG)](https://laugeorge.github.io/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+**[View Live Preview](https://laugeorge.github.io/)**
 
 ## Status
 
